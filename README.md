@@ -1,6 +1,6 @@
 # Simulation Examples for KiCad 8.0 Using Ngspice
 
-The subfolders contain KiCad 7.99/8.0 projects with schematics containing ngspice simulations, created by [Holger Vogt](https://forum.kicad.info/u/holger), originally published in a [KiCad forum post](https://forum.kicad.info/t/more-simulation-examples-for-kicad-eeschema-ngspice/45546)
+
 
 :warning: Directories in this repository are named after the original 7z file name and may differ from the xxx.7z folder name and the contained xxx.kicad_pro project file. This should probably be refactored to follow KiCad best practices of naming the folder the same as the contained `.kicad_pro` file. This is, however, not a trivial task, as several of the original 7z archives contain multiple `.kicad_pro` project files.
 
